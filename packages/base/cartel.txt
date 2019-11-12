@@ -1,20 +1,14 @@
 
-Readme for Cartel by cm|sheik (Fatality)
+Readme for Cartel by Fatality
+Made in 2014
 
+Licensed under a Creative Commons (BY-NC-ND) license.
 
-
-This map is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-
-For questions, concerns, or to simply give feedback please email me at sheik@inexor.org
-
-
-Cartel was created in March-May of 2014, and was reworked and expanded in December of 2014.
 
 
 Much thanks goes to:
 
- Redon for much help with building and the layout.
+ Redon for much help with building and the expansion of the layout.
 
  Pyccna, who built most of the exterior and scenery of the map.
 
@@ -28,7 +22,4 @@ Much thanks goes to:
 
  Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
 
- The Inexor team for including my maps :).
 
-
-Enjoy playing!

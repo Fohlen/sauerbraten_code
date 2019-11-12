@@ -1,28 +1,18 @@
 
-Readme for Legacy by cm|sheik
+Readme for Legacy by Fatality
 
 
-
-This map is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-
-For questions, concerns, or to simply give feedback, please email me at sheik@inexor.org
+Licensed under a Creative Commons (BY-NC-ND) license.
 
 
-Legacy was speed-built in February 2015
+Legacy was built in February 2015
 
 
 Much thanks goes to:
 
- Hades and swatllama for testing.
+ Hades, swatllama and others for testing and feedback/suggestions.
 
  Everyone who commented on quadropolis.us and sauerworld.org.
 
  Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
 
- The Inexor team for including my maps :).
-
-
-Enjoy playing!
-
--Sheik

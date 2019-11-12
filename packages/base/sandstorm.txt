@@ -1,15 +1,14 @@
 
-Readme for Sandstorm by Fan|Sheik
+Readme for Sandstorm by Fatality
+Made in 2014
+
+
+Licensed under a Creative Commons (BY-NC-ND) license.
 
 
 
-This map is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-For questions, concerns, or to simply give feedback please email me at sheik@inexor.org
-
-Sandstorm was created in June-July of 2014, and was reworked in December of 2014.
-
-Much thanks goes to:
+Much thanks to:
 
  Jiko, who created almost all geometry in the corner with the catwalks and the teledest.
 
@@ -25,7 +24,4 @@ Much thanks goes to:
 
  Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
 
- The Inexor team for including my maps :).
 
-
-Enjoy playing!
