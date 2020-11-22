@@ -1,5 +1,5 @@
 Purgatory by Frosty & Nieb
-(2020-11-03)
+(2020-11-21)
 
 A medium-sized FFA duel map with an eerie old castle feel and strawberry jam. The layout was inspired by Kevin "Tyrann" Shanahan's Aggressor. Special thanks to Nieb for his help, particularly with the texturing and detailing. Also a small thanks to Redon for his Sauerbraten geometry font (nymono), and to those who playtested the map and gave feedback.
 
