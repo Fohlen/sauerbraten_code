@@ -240,10 +240,10 @@ void genserverlist()
     messagebuf *l = new messagebuf(gameserverlists);
     if(mastermotd[0])
     {
-        const char *cmd = "echo \"";
+        const char *cmd = "echo ";
         l->buf.put(cmd, strlen(cmd));
         l->buf.put(mastermotd, strlen(mastermotd));
-        l->buf.put("\"\n", 2);
+        l->buf.add('\n');
     }
     loopv(gameservers)
     {
