@@ -781,7 +781,6 @@ static bool fuzzycollidesolid(physent *d, const vec &dir, float cutoff, const cu
        d->o.z + d->aboveeye < co.z || d->o.z - d->eyeheight > co.z + size)
         return false;
 
-    E entvol(d);
     collidewall = vec(0, 0, 0);
     float bestdist = -1e10f;
     int visible = isentirelysolid(c) ? c.visible : 0xFF;
